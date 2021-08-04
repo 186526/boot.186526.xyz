@@ -1,0 +1,11 @@
+# netboot.xyz bootloaders generated at Wed Aug  4 18:27:09 UTC 2021
+# iPXE Commit: https://github.com/ipxe/ipxe/commit/e09e1142a3bd8bdb702efc92994c419a53e9933b
+
+15321b61a9e284482516f8a6dc542e7daa482d5c28d23a8270e31502fd9afd14 *netboot.xyz-arm64.efi
+d1d4107cee9c10ff20e5971612869f68952d2130aa7322cd74fe0ad238f87a9c *netboot.xyz-snp.efi
+3740fe717054ab60d45aab7cf79f38ccddf851595b0b8964d3ab5067c4e5c1ea *netboot.xyz-snponly.efi
+66456520d4a01eae415ed9a3260ee31a39eb2d57bd76f68fbf6ef8e9a82249e2 *netboot.xyz-undionly.kpxe
+d0a3d3a8ae1fd95c5ee9f95ff5bf37644703e1420412d318968bb35d648927bb *netboot.xyz.dsk
+dc4c8d746a9fdddc114a39df06aab5ca2c1f8e20cdf2c81ddc778735c928bf29 *netboot.xyz.efi
+434526d6d6e57a2bf6ff0396b3d4ea5e3db474b583e599e3e95091fb0d50e458 *netboot.xyz.kpxe
+4bcb005f16e0fb7ebf78c2b511be6946c08388231c745f6ffa0beb2a39c2dfd6 *netboot.xyz.lkrn
